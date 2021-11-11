@@ -1,0 +1,2 @@
+# Azure Function (Pub/sub)
+
